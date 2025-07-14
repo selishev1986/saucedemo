@@ -1,9 +1,3 @@
-# saucedemo
-About:
-The purpose of this repo is to create a structured playground for automating end-to-end tests for the internet store https://www.saucedemo.com/ 
-
----
-
 # 🧪 SauceDemo UI Test Automation Framework
 
 Dieses Projekt automatisiert UI-Tests für die [SauceDemo-Webanwendung](https://www.saucedemo.com/) mit **Playwright** und **Python**. Es verwendet das **Page Object Model (POM)**, um die Testlogik sauber zu strukturieren und die Wartbarkeit zu verbessern.
